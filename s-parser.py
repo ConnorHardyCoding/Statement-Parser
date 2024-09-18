@@ -14,9 +14,9 @@ import os
 import csv
 
 # for scanning existing statements
-directory = "/Users/connorhardy/Financial-Statements/Bank-statements"
+directory = "examplepath"
 # new folder for output csv files
-new_directory = "/Users/connorhardy/Financial-Statements/Bank-statements/HSBC_paypal_statements"
+new_directory = "examplepath"
 # count for how many new files were created
 new_file_count = 0
 
